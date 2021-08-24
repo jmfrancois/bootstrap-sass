@@ -1,5 +1,8 @@
 # Bootstrap 3 for Sass
-[![npm version](https://img.shields.io/npm/v/bootstrap3-sass.svg?style=flat)](https://www.npmjs.com/package/bootstrap3-sass)
+
+Note: this is a fork for [Talend/ui](https://github.com/Talend/ui) maintainance reasons.
+
+[![npm version](https://img.shields.io/npm/v/@talend/bootstrap-sass.svg?style=flat)](https://www.npmjs.com/package/@talend/bootstrap-sass)
 
 `bootstrap-sass` is a Sass-powered version of [Bootstrap](https://github.com/twbs/bootstrap) 3, ready to drop right into your Sass powered applications.
 
