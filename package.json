@@ -35,5 +35,8 @@
   "eyeglass": {
     "exports": "eyeglass-exports.js",
     "needs": "^0.7.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
